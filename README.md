@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay007op&label=Profile%20views&color=0e75b6&style=flat" alt="abhay007op" /> </p>
 
 
-
-<p align="left"> <a href="https://twitter.com/abhaypandhare" target="blank"><img src="https://img.shields.io/twitter/follow/abhaypandhare?logo=twitter&style=for-the-badge" alt="abhaypandhare" /></a> </p>
-
 - 🌱 I’m currently learning **Generative AI with Large Language Models**
 
 - 📫 How to reach me **pandhare060@gmail.com**
